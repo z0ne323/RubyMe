@@ -8,4 +8,4 @@ To give a little context, I haven't been on this website for **YEARS**. When I s
 
 Anyway now I'm going back on this website, doing some challenges there is always very cool / nostalgic. To give me a little bit of a challenge, I'm only allowed to use `Ruby`, the problem is that I don't know `Ruby` so that should be pretty interesting to see !
 
-As of now, I've done the `IRC` challenges in the programming section of the website. You can find this section just [here](https://www.root-me.org/en/Challenges/Programming/)!
+As of now, I've done the `IRC` challenges (that are now removed, so I've also done the new `TCP` ones, it's exactly the same thing but just the protocol is different). It's in the programming section of the website. You can find this just [here](https://www.root-me.org/en/Challenges/Programming/)!
